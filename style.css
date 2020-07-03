@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(108, 108, 253);
+}
+
+h1{
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+img{
+    align-items: center;
+    display: block;
+    margin: auto;
+    margin-bottom: 10px;
+    box-shadow: 15px 5px 5px rgb(0, 0, 0,.6);
+}
+
+iframe{
+    align-items: center;
+    display: block;
+    margin: auto;
+    box-shadow: 15px 8px 5px rgb(0, 0, 0,.6);
+}
+
+input{
+    width: 672px;
+    height: 55px;
+    align-items: center;
+    display: block;
+    margin: auto;
+    font-size: 55px;
+}

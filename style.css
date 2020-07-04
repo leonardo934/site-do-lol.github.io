@@ -22,11 +22,55 @@ iframe{
     box-shadow: 15px 8px 5px rgb(0, 0, 0,.6);
 }
 
-input{
-    width: 672px;
-    height: 55px;
-    align-items: center;
+
+
+div#masteryi{
+    background-color: rgb(255, 145, 0);
+    height: 733px;
+}
+div#garem{
+    background-color: cyan;
+    height: 733px;
+}
+div#jhin{
+    background-color: firebrick;
+    height: 733px;
+}
+
+header{
+    background-color: rgba(151, 197, 26 );
+    padding: 12px;
+    border-radius: 100px;
     display: block;
+    position: relative;
+    width: 600px;
     margin: auto;
-    font-size: 55px;
+    
+
+}
+
+ul#grupo1 {
+    display: block;
+    position: relative;
+    left: 1%;
+    
+}
+input#falecomigo,input#home, input#youtube, input#download, input#imagens {
+    height: 50px;
+    border-radius: 17px;
+    width: 95px;
+    background-color: rgb(108, 13, 218);
+    color: rgb(255, 0, 0);
+    font-size: 15px;
+
+}
+
+
+
+div{
+    border-radius: 100px;
+    width: 799px;
+    display: block;
+    position: relative;
+    margin: auto;
 }

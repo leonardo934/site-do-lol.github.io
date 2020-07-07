@@ -1,4 +1,4 @@
-body{
+body{margin: 25px;
     background-color: rgb(108, 108, 253);
 }
 
@@ -7,7 +7,7 @@ h1{
     text-align: center;
 }
 
-img{
+img.imgindex{
     align-items: center;
     display: block;
     margin: auto;
@@ -67,10 +67,38 @@ input#falecomigo,input#home, input#youtube, input#download, input#imagens {
 
 
 
-div{
+div#jhin, div#garem, div#masteryi{
     border-radius: 100px;
     width: 799px;
     display: block;
     position: relative;
     margin: auto;
 }
+
+
+
+
+
+div#fotos{
+   width: 100%;
+   background-color: white;
+   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+   margin-bottom: 25px;
+}
+
+
+div.container{
+    text-align: center;
+    padding: 10px 20px;
+    
+}
+
+
+div.container p{
+    font-size: 50pt;
+    color: rgb(99, 25, 160);
+    font-weight: bold;
+}
+
+
+
